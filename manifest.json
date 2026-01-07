@@ -1,0 +1,28 @@
+
+{
+  "id": "vn.hoainhondong.citizen",
+  "short_name": "H.Nhơn Đông",
+  "name": "Hoài Nhơn Đông - Cư dân Số",
+  "description": "Ứng dụng kết nối cư dân và chính quyền phường Hoài Nhơn Đông.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942503.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942503.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#065f46",
+  "background_color": "#f8fafc",
+  "scope": "/",
+  "categories": ["government", "productivity"]
+}

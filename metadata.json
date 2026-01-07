@@ -1,0 +1,9 @@
+{
+  "name": "CitizenConnect VN",
+  "description": "Cổng thông tin cư dân thông minh tích hợp trợ lý AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
