@@ -19,7 +19,7 @@ interface BanksModalProps {
 
 const banks: Bank[] = [
   {
-    id: 'agribank-hoai-huong',
+    id: 'agribank-hoai-nhon-dong',
     name: "Agribank Chi nhánh Hoài Hương",
     address: "F3QR+CCJ, ĐT639, Hoài Hương, Hoài Nhơn, Bình Định, Việt Nam",
     phone: "0584.820.205",
