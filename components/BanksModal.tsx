@@ -24,7 +24,7 @@ const banks: Bank[] = [
     address: "F3QR+CCJ, ĐT639, Hoài Hương, Hoài Nhơn, Bình Định, Việt Nam",
     phone: "0584.820.205",
     mapUrl: "https://maps.app.goo.gl/cwAS9vkHYxJT8auNA",
-    description: "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam - Phục vụ tín dụng, tiết kiệm và các dịch vụ tài chính cho bà con nông dân và cư dân địa phương.",
+    description: "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam.",
     imageUrl: "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?auto=format&fit=crop&q=80&w=400"
   }
 ];
